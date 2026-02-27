@@ -259,7 +259,7 @@ body {
 
 /* Full wordmark — visible on desktop, hidden on mobile */
 .nav-logo-desktop {
-    height: 40px;
+    height: 80px;
     max-width: 160px;
     width: auto;
 }
@@ -2851,4 +2851,5 @@ body {
     .flavors-grid {
         grid-template-columns: 1fr;
     }
+
 }
